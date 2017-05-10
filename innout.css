@@ -51,11 +51,10 @@ img {
 	padding: 20px;
 }
 p {
-	padding: 25px;
+	padding: 30px;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 30px;
 	color: white;
-	width: 230px;
 	background-color: #452a2a;
 	text-align: center;
 }
