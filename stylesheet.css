@@ -59,13 +59,7 @@ p {
 	background-color: #452a2a;
 	text-align: center;
 }
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url("images/innoutburger.jpg");
-  background-size: 1700px;
-  height: 1100px;
-}
+
 .row h2{
 	font-size:50px;
 	color: white;

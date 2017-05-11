@@ -61,9 +61,9 @@ p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url("images/innoutburger.jpg");
+  background-image: url("images/mdmap.png");
   background-size: 1700px;
-  height: 1100px;
+  height: 700px;
 }
 .row h2{
 	font-size:50px;
