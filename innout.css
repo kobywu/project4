@@ -46,16 +46,15 @@ body{
 	background-color:white;
 }
 img {
-	height: 200px;
-	width: 300px;
-	padding: 20px;
+	height: 500px;
+	width: 500px;
+	padding: 50px;
 }
 p {
 	padding: 30px;
 	font-weight: bold;
 	font-size: 30px;
 	color: white;
-	background-color: #452a2a;
 	text-align: center;
 }
 .jumbotron {
@@ -76,3 +75,4 @@ p {
 	width: 700px;
 	font-size: 45px;
 }
+

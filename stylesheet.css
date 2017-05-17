@@ -60,10 +60,18 @@ img {
 .table{
 	background-color:#452a2a;
 	width: 1900px;
+	margin-top: 30px;
 }
 .table td{
 	color:white;
 	font-family:Times;
 	font-size:20px;
 	text-align:center;
+	padding:20px;
+}
+.table th {
+	color: white;
+	font-size: 40px;
+	font-family: Times;
+	text-align: center;
 }
